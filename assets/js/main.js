@@ -58,13 +58,13 @@ function atualizaInterface() {
         for(let i in candidato.fotos){
             if(candidato.fotos[i].small){
                 fotosHtml += `
-                <div class="d-1-image small"><img src="assets/images/${candidato.fotos[i].url}" 
+                <div class="d-1-image small"><img src="./assets/images/${candidato.fotos[i].url}" 
                     alt="">${candidato.fotos[i].legenda} 
                 </div>`
             }
             else{
                 fotosHtml += `
-                <div class="d-1-image"><img src="assets/images/${candidato.fotos[i].url}" 
+                <div class="d-1-image"><img src="./assets/images/${candidato.fotos[i].url}" 
                     alt="">${candidato.fotos[i].legenda} 
                 </div>`
             }
