@@ -11,7 +11,7 @@
 
 ## ⚠️ Atenção:
 
-Não compactou com nenhum dos candidados, coloquei apenas os mais votados e conhecidos da minha região e em nível nacional.
+Não compactuo com nenhum dos candidados, coloquei apenas os mais votados e conhecidos da minha região e em nível nacional.
 
 ## 💼 Tecnologias utilizadas:
 
